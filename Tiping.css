@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+    background-image: linear-gradient(to right, #f3eaff 0%, #dac0ff 100%);
+    width: 100%;
+    height: 110vh;
+    background-size: cover;
+
+}
+
+.WatchImage {
+    width: 45px;
+    height: 45px;
+}
+
+.heading {
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: #3e4c59;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#timer {
+    font-size: 25px;
+    color: #3e4c59;
+    font-weight: 600;
+}
+
+.textFiels {
+    margin-top: 20px;
+    background-color: #f2ebfe;
+    border: 1px solid #3e4c59;
+    border-radius: 15px;
+}
+
+.btnReset {
+    height: 38px;
+    width: 70px;
+    background-color: #ffffff;
+    color: #3e4c59;
+    border-radius: 7px;
+    border: none;
+}
+
+.Btnsubmit {
+    height: 38px;
+    width: 70px;
+    background-color: #690cb0;
+    color: #ffffff;
+    border-radius: 7px;
+    border: none;
+}
+
+.resultPara {
+    color: #3e4c59;
+    font-weight: 600;
+    font-size: 16px;
+}
